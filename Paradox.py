@@ -9,7 +9,7 @@ anon = raw_input("\nDo you want to use AnonSurf (tor)? [y/n]: ") # AnonSurf will
 
 if anon == "y":
     AnonSurf = subprocess.call("sudo anonsurf start", shell=True)
-    print AnonSurf
+    print(AnonSurf)
 elif anon == "n":
     print("\nMake sure you have a VPN on!")
 else:
