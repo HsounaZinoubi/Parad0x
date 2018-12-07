@@ -13,9 +13,7 @@ This is just for research security and to prove a point: update your devices if 
 
 Thanks.
 
-
 # How to use
-
 Go to Shodan.io, get your API key.
 
 Edit the file apikey.py and enter your Shodan API key in between the single quotes.
@@ -26,4 +24,11 @@ Exploits can be placed in the exploits folder. You just have to edit Paradox.py 
 
 Done.
 
+# Notes
+Also, this is simple for one reason. It isn't meant to be actually used.
+If you want me to add/intergrate new features. Let me know my socials are below.
 
+# Socials
+Jax#8780 - Discord
+@JaxTheBox - Twitter
+Jax@creep.im - XMPP
