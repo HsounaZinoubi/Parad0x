@@ -30,7 +30,7 @@ If you want me to add/intergrate new features. Let me know my socials are below.
 
 # Socials
 [
-_**Discord Jax#8780**_
-_**Twitter @JaxTheBox**_
-_**XMPP Jax@creep.im**_
+_**`Discord Jax#8780`**_
+_**`Twitter @JaxTheBox`**_
+_**`XMPP Jax@creep.im`**_
 ]
