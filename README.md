@@ -29,6 +29,8 @@ Also, this is simple for one reason. It isn't meant to be actually used.
 If you want me to add/intergrate new features. Let me know my socials are below.
 
 # Socials
-Jax#8780 - Discord
-@JaxTheBox - Twitter
-Jax@creep.im - XMPP
+[
+_**Jax#8780 Discord**_
+_**@JaxTheBox Twitter**_
+_**Jax@creep.im XMPP**_
+]
