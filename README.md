@@ -12,3 +12,18 @@ If done so, I hold no responsibility for your actions.
 This is just for research security and to prove a point: update your devices if possible.
 
 Thanks.
+
+
+# How to use
+
+Go to Shodan.io, get your API key.
+
+Edit the file apikey.py and enter your Shodan API key in between the single quotes.
+
+Now run Paradox.py with python.
+
+Exploits can be placed in the exploits folder. You just have to edit Paradox.py choices section to execute the exploit command but with the result IP address.
+
+Done.
+
+
